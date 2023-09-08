@@ -3,12 +3,16 @@
 ### Date created
 September 9th, 2023
 
+### Created by: 
+Sally
+
 ### Project Title
 Project: Post Your Work on GitHub
 
 ### Description
-The project revolved around applying Git and GitHub within a simulated workflow to refactor Project 2. Completing a template is required, which outlined the Git commands utilized for the assigned tasks.
+The project revolved around applying Git and GitHub within a simulated workflow to refactor Project 2. Completing a template is required, which outlined the Git commands utilized for the assigned tasks. 
 First branch created is named documentation. Additionally, bikeshare.py has been updated by adding comment and print command. 
+Second branch created is named refractoring.
 
 ### Files used
 Necessary commands used for accomplishing the task is: Sally__Git Commands Documentation.pdf
