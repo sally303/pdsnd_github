@@ -1,3 +1,5 @@
+## this file is brought from Project 2. 
+
 import time
 import pandas as pd
 import numpy as np
@@ -263,6 +265,7 @@ def user_stats(df):
 
 
 def main():
+    print("WELCOME TO SALLY's BIKESHARE!")
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
